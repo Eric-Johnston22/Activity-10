@@ -34,7 +34,7 @@ namespace Activity_10
             Console.WriteLine("A: " + A); // Issue - set A has been altered
             Console.WriteLine("B: " + B);
 
-            // Await key press before closing app
+            // Added - Await key press before closing app
             Console.ReadKey();
 
         }
